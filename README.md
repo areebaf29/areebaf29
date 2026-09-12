@@ -46,7 +46,6 @@ My work spans the full lifecycle of a data project: cleaning and exploring raw d
 />
 
 </div>
-
 <br>
 
 ## Technical Skills
