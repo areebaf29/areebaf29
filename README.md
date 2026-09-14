@@ -6,7 +6,7 @@
 
 *Building intelligent, data-driven solutions from the ground up*
 
-[![GitHub](https://img.shields.io/badge/GitHub-areeba--byte-1E3A8A?style=flat-square&logo=github&logoColor=white)](https://github.com/areeba-byte)
+[![GitHub](https://img.shields.io/badge/GitHub-areeba--byte-1E3A8A?style=flat-square&logo=github&logoColor=white)](https://github.com/areebaf29)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-1E3A8A?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 ![Profile Views](https://komarev.com/ghpvc/?username=areeba-byte&style=flat-square&color=1E3A8A&label=Profile+Views)
 
