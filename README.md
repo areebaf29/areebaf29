@@ -29,15 +29,7 @@ My work spans the full lifecycle of a data project: cleaning and exploring raw d
 
 <br>
 
-## GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats-gzhratg6u-areeba-b257.vercel.app/api?username=areebaf29&show_icons=true&hide_border=true&title_color=1E3A8A&icon_color=1E3A8A&text_color=333333&bg_color=00000000&cache_seconds=21600" width="48%" />
-
-<img src="https://github-readme-stats-gzhratg6u-areeba-b257.vercel.app/api/top-langs/?username=areebaf29&layout=compact&hide_border=true&title_color=1E3A8A&text_color=333333&bg_color=00000000&cache_seconds=21600" width="48%" />
-
-</div>
 
 <br>
 
